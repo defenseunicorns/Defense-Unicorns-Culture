@@ -14,9 +14,9 @@ They want mission success and the best way to support the mission is to make sur
 - **We believe If our company foundation is focused on culture, the technology will work itself out because we have the best people working for our company.**
 
 
-> “Invest in people so they can work anywhere. Treat them in a way where they won’t want to work anywhere but here” 
-> 
-> *Andrew Greene one of the founders of the company.*
+>“Invest in people so they can work anywhere. Treat them in a way where they won’t want to work anywhere but here”
+>
+> *~Andrew Greene, one of the founders of the company*
 
 ## Our Vision
 
