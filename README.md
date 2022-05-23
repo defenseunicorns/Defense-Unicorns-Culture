@@ -11,12 +11,20 @@ They want mission success and the best way to support the mission is to make sur
 
 - **We believe that a culture first mentality is critical**
 
-If our company foundation is focused on culture, the technology will work itself out because we have the best people working for our company. 
-“Invest in people so they can work anywhere. Treat them in a way where they won’t want to work anywhere but here” - Andrew Greene one of the founders of the company.
+- **We believe If our company foundation is focused on culture, the technology will work itself out because we have the best people working for our company.**
 
-**Company Vision**: We ***envision a free and secure world*** that enables progress and innovation.
 
-**Company Mission**: Our ***mission*** is to develop and integrate ***revolutionary solutions*** that advance the common good. (These values are what the  video will be about.)
+>“Invest in people so they can work anywhere. Treat them in a way where they won’t want to work anywhere but here”
+>
+> *~Andrew Greene, one of the founders of the company*
+
+## Our Vision
+
+We envision a ***free and secure world*** that enables progress and innovation.
+
+## Our Mission
+
+Our mission is to develop and integrate ***revolutionary solutions*** that advance the common good. (These values are what the  video will be about.)
 
 # We Value...
 
