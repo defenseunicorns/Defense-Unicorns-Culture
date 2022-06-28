@@ -1,4 +1,4 @@
-# Our Culture
+# Our Culture (V.2)
 This repo is a living document of company culture and values.
 
 Everyone at the company is encouraged to take ownership of our culture and values. You can propose changes to this documment by clicking the edit button in the top righhand corner and opening a PR against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
