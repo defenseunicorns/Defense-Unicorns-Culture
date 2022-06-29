@@ -15,15 +15,15 @@ They want mission success and the best way to support the mission is to make sur
 
 >“Invest in people so they can work anywhere. Treat them in a way where they won’t want to work anywhere but here”
 >
-> *~Andrew Greene, one of the founders of the company*
+> *~[Andrew Greene](https://github.com/andrewsgreene), one of the founders of the company*
 
 ## Our Vision
 
-We envision a ***free and secure world*** that enables progress and innovation.
+A free and secure world that enables progress and innovation.
 
 ## Our Mission
 
-Our mission is to develop and integrate ***revolutionary solutions*** that advance the common good. (These values are what the  video will be about.)
+To develop and integrate revolutionary solutions that advance the common good.
 
 # Our Values
 
@@ -32,49 +32,36 @@ We believe that with experimentation we can build actionable habits day to day a
 
 ### Experimentation
 
-*Advocates: Andrew Blanchard & Austin Abro*
+*Advocates: [Andrew Blanchard](https://github.com/blancharda)*
 
-We value *Experimentation* because...
-- It drives us to pursue creative solutions, learn new skills, and make data-driven decisions that help us serve our customers as effectively as possible. 
-- We inform our operations by experiments, applying a build-measure-learn feedback loop in all we do.
+Proposed Habit: clearly identify the experiments you are running, how you are going to run them, for how long you are going to run them, and what the success or failure outcomes are.
 
 ### Default to Action
 
-*Advocates: Courtney Barno & Thomas Runyon*
+*Advocates: [Courtney Barno](https://github.com/Cbarno) & [Thomas Runyon](https://github.com/runyontr)*
 
-We value *Defaulting to Action* because...
-- Speed matters in driving mission outcomes. Waiting for approval doesn't guarantee a better solution, but it does guarantee lost time and repetitions that affect value delivery. At Defense Unicorns, we empower team members at all levels with the trust, authority and support to make decisions that are in the best interest of the mission and the company.
+ Maintain a [company backlog](https://github.com/leapfrogai/Strategic-Growth-/projects/1); each week we will:
+- Groom the backlog
+- Provide opportunities to volunteer for tasks/task assignment
 
 ### Focused Learning
 
-*Adcovates: Mallory Grim & Barrett LaFrance*
+*Adcovates: [Mallory Grim](https://github.com/mgrim2) & [Barrett LaFrance](https://github.com/btlghrants)*
 
-We value *Focused Learning* because...
-- It allows individuals to continually improve and develop skills.
-- By creating habits of learning, we are able take small steps every day toward a larger goal of self and team improvement.
-- By focusing our attention on the learning most closely tied to desired results, we maximize our growth.
+How might we encourage learning as a habit?
+- Start a book club
+- Recommend an article of the day
+- Host tech lunches/brown bags
 
 ### Positive Thinking
 
-*Advocates: Maggie Lyon & Eden Gebrezgi*
+*Advocates: [Maggie Lyon](https://github.com/MaggieFrances) & [Eden Gebrezgi](https://github.com/edengebrezgi)*
 
-We value *Positive Thinking* because it...
-- Focuses intentionally on mindset which impacts and strengthens engagement with relationships, outcomes, and mission advancement.
-- Motivates teams and individuals build excitement, and drives a great culture.
-- Promotes consistent embodiment of shared values and habits.
-- Encourages wellness, happiness, breaks, and balance; Benefits the individual as a whole in all aspects of life.
-- Creates space for reflections and open and honest communication; Problems are shared and addressed as opposed to being hidden from view.
-- Is safe to experiment and grow without fear of personal attack.
-- Drives awareness, consideration of, and reception to different perspectives.
-- Contributes to the mitigation of complacency and negativity risks. It is inefficient and ineffective to spend energy and time on negative thinking.
+When you feel yourself being hurt, insulted, annoyed, or pissed off follow *[Cognitive Restructuring](https://www.mindtools.com/pages/article/newTCS_81.htm)* to shift your perspective:
 
 ### Insights
 
-*Advocates: Andrew Greene*
+*Advocates: [Andrew Greene](https://github.com/andrewsgreene)*
 
-We value *Insights* because...
-- They help us find the truth we seek and become better versions of ourselves.
-- We are open to feedback and input, always.
-- We give and receive direct feedback.
-- We’re committed to delivering actionable insights that allow us to improve personally, professionally, and as a team.
-- The feedback we give is respectful, timely, and thoughtful.
+When you strongly believe someone is “making a mistake” let them know. Start the sentence with:
+> I know our company values insights. In the spirit of making both yourself and the company better, one data point for your consideration is that I think that ______________________.
