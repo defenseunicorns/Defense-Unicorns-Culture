@@ -1,17 +1,14 @@
-# Our Culture
-This repo is a living document of company culture and values.
+# Defense Unicorn's Culture
+This repo is a living document of Defense Unicorn's culture. 
 
 Everyone at the company is encouraged to take ownership of our culture and values. You can propose changes to this documment by clicking the edit button in the top righhand corner and opening a PR against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## About Defense Unicorns
-Defense Unicorns exists to serve mission-focused heroes who recognize that outcomes aren't always directly related to the number of hours worked
-They want mission success and the best way to support the mission is to make sure we take care of our people.
+Defense Unicorns exists to develop elegant and simple to use products, that enable mission heroes to stream software delivery so they can focus on the most important challenges.
 
-- **We believe that Unicorns (our employees) come first**
+- **We believe that people matter. Our mission heroes who sacrifice so much to make the world a better place and our Unicorns, who make the amazing products that fundamentally change the world**
 
-- **We believe that a culture first mentality is critical**
-
-- **We believe If our company foundation is focused on culture, the technology will work itself out because we have the best people working for our company.**
+- **We believe that people and culture is the foundation upon which all processes and products are built**
 
 >“Invest in people so they can work anywhere. Treat them in a way where they won’t want to work anywhere but here”
 >
@@ -19,30 +16,52 @@ They want mission success and the best way to support the mission is to make sur
 
 ## Our Vision
 
-A free and secure world that enables progress and innovation.
+A FREE AND SECURE WORLD that enables progress and innovation.
 
 ## Our Mission
 
-To develop and integrate revolutionary solutions that advance the common good.
+Streamlining software delivery so you can focus on the most important challenges.
 
 # Our Values
 
-## Sandbox
-We believe that with experimentation we can build actionable habits day to day around these values.
+Values are only as good as your daily habits. Values not lived, are not values at all. We allow any Unicorn to propose new values. We then adopt the values that we not only believe in, but that are reflected in daily habits.  When new values are proposed, they start off as Sandbox Values.  After 70% of the company adopts daily habits around a sandbox value, it is then promoted as an Incubating Values. Following 80% contribution over 6 months, a company value can be promoted to Graduated Values.  At any point, a Graduated or Incubating Values can be demoted or removed. 
 
-### Experimentation
+Champion for GitOps for Culture is Defense Unicorn's Culture Executive Officer (CEO) *[Rob Slaughter](https://github.com/unicornbunny182)*
+
+## Sandbox
+
+### Mission Impact
 
 *Advocates: [Andrew Blanchard](https://github.com/blancharda)*
 
+Defense Unicorn's exists to serve the mission. Mission Impact is at the core of all that we do. 
+
+### Fun
+
+*Advocates: [Madeline Fortner Blanchard](https://github.com/Madeline-UX)*
+
+People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
+
+### Open Source Solutions
+
+*Advocates: [Brandt Keller](https://github.com/brandtkeller)*
+
+Open Source software has consumed the world. That is because by making software not only open source, but free to consume, it leads to widespread adoption of solutions that leads to massive mission impact. At Defense Unicorn's we value open source solutions that fundamentally support a free and secure world. 
+
+
+## Incubating Values
+
+### Experimentation
+
+*Advocates: [Andrew Blanchard](https://github.com/blancharda) & [Austin Abro](https://github.com/AustinAbro321)*
+
 Proposed Habit: clearly identify the experiments you are running, how you are going to run them, for how long you are going to run them, and what the success or failure outcomes are.
 
-### Default to Action
+### Ownership
 
-*Advocates: [Courtney Barno](https://github.com/Cbarno) & [Thomas Runyon](https://github.com/runyontr)*
+*Advocates: [Austen Bryan](https://github.com/austenbryan) & [Brian Rexrode](https://github.com/brianrexrode)*
 
- Maintain a [company backlog](https://github.com/leapfrogai/Strategic-Growth-/projects/1); each week we will:
-- Groom the backlog
-- Provide opportunities to volunteer for tasks/task assignment
+When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn. 
 
 ### Focused Learning
 
@@ -61,7 +80,13 @@ When you feel yourself being hurt, insulted, annoyed, or pissed off follow *[Cog
 
 ### Insights
 
-*Advocates: [Andrew Greene](https://github.com/andrewsgreene)*
+*Advocates: [Andrew Greene](https://github.com/andrewsgreene) & [Anthony Wendt](https://github.com/anthonywendt)*
 
 When you strongly believe someone is “making a mistake” let them know. Start the sentence with:
 > I know our company values insights. In the spirit of making both yourself and the company better, one data point for your consideration is that I think that ______________________.
+
+### Context 
+
+*Advocates: [Andy Roth](https://github.com/blancharda) & [Gavin Scallon](https://github.com/gscallon)* 
+
+Context matters. No really. If someone is late to a meeting, and it's because of a family emergency, that is different then they blew it off for no good reason. Context helps others understand your perspective, which leads to developing better empathy and helps forms more effective teams. 
