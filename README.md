@@ -76,7 +76,7 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 **What is the expected behavior we are looking to drive with development of ownership habits? Said differently, what is the expected outcome?**
 - Unicorns build daily habits that display ownership in their work in order to better deliver value to our customers
 
-**How can a new hire demonstrate habits related to ownership?
+**How can a new hire demonstrate habits related to ownership?**
 - Participation in monthly ownership meet ups in Gather
 - Approximate number of Jocko emoji tags
 - Customer satisfaction survey
