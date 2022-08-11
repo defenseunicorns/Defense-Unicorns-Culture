@@ -61,7 +61,7 @@ Proposed Habit: clearly identify the experiments you are running, how you are go
 
 *Advocates: [Austen Bryan](https://github.com/austenbryan) & [Brian Rexrode](https://github.com/brianrexrode)*
 
-When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
+- When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
 
 **What does Ownership mean in Defense Unicorns? 
 - Being fully accountable for a task even if not explicitly asked
