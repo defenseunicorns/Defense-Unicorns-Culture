@@ -61,7 +61,29 @@ Proposed Habit: clearly identify the experiments you are running, how you are go
 
 *Advocates: [Austen Bryan](https://github.com/austenbryan) & [Brian Rexrode](https://github.com/brianrexrode)*
 
-When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn. 
+When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
+
+**What does Ownership mean in Defense Unicorns?** 
+- Being fully accountable for a task even if not explicitly asked
+
+**Why is Ownership important to Defense Unicorns?**
+- it is how trust is built; being accountable and always having your team’s back
+- encourages inward reflection to continuously grow
+- drives decentralized execution and greater efficiency
+- ensures customers have a great experience and get the outcomes they were looking for
+- Not only the identification of problems but taking point on solutioning.
+
+**What is the expected behavior we are looking to drive with development of ownership habits? Said differently, what is the expected outcome?**
+- Unicorns build daily habits that display ownership in their work in order to better deliver value to our customers
+
+**How can a new hire demonstrate habits related to ownership?**
+- Participation in monthly ownership meet ups in Gather
+- Approximate number of Jocko emoji tags
+- Customer satisfaction survey
+
+**How has this value evolved over time within Defense Unicorns?**
+- Default to action - follow up and accountability
+- Evolved to ownership to bookend beginning the work
 
 ### Focused Learning
 
