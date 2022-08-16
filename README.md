@@ -1,7 +1,7 @@
 # Defense Unicorn's Culture
 This repo is a living document of Defense Unicorn's culture. 
 
-Everyone at the company is encouraged to take ownership of our culture and values. You can propose changes to this documment by clicking the edit button in the top righhand corner and opening a PR against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Everyone at the company is encouraged to take ownership of our culture and values. You can propose changes to this document by clicking the edit button in the top righthand corner and opening a PR against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## About Defense Unicorns
 Defense Unicorns exists to develop elegant and simple to use products, that enable mission heroes to stream software delivery so they can focus on the most important challenges.
@@ -32,19 +32,52 @@ Champion for GitOps for Culture is Defense Unicorn's Culture Executive Officer (
 
 ### Mission Impact
 
-*Advocates: [Andrew Blanchard](https://github.com/blancharda)*
+*Champions: [Jesse Arlington](https://github.com/Jesse-Arlington), [Mike Vanhemert](https://github.com/mikevanhemert)*
 
-Defense Unicorn's exists to serve the mission. Mission Impact is at the core of all that we do. 
+Defense Unicorns exists to serve the mission. Mission Impact is at the core of everything we do.
+
+**Meaning**
+
+Mission Impact is bigger than Defense Unicorns. It is every activity that contributes to increased decision timelines and improved battlespace awareness through faster software delivery that is cheaper to sustain. Mission Impact factors into every decision we make: Who do we partner with? Where should I focus my attention today? What one area can I improve to amplify my contributions? Our Mission Heroes - not the government PM or contracting officer, not the Chief Engineer at the Program Office, but the Sailor, Soldier, Airman, Marine, and Guardian whose mission success is tied directly to the systems we advance - are our North Star.
+
+**Engagement**
+
+| Frequency | Style | Details |
+|---|---|---| 
+| Daily | Emoji | Identify Unicorns and activities delivering Mission Impact for our Heroes
+| Weekly | Meme/Blog | 2-8 sentence post/meme advancing the Mission Impact value |
+| Monthly | Podcast | Recorded discussion summarizing this month |
+
+*Emoji*
+
+The value champions will select an emoji that embodies **Mission Impact** and begin socializing its purpose across Defense Unicorns. The emoji allows us to recognize individuals and activities that directly and indirectly deliver **Mission Impact** for heroes.
+
+We will engage the Slack API to automatically assess emoji use and periodically collate value engagement data.
+
+*Meme/Blog*
+
+The value champions will generate 2-4 months of ideas for memes and blog posts and post them to the [general](https://defense-unicorns.slack.com/archives/C01GAJ9LCAW) channel in Slack. Initial brainstorming ideas include:
+
+* Develop a story arc that allows us to educate the blessing on ways to be mindful of Mission Impact in everything we do
+* Relate **Mission Impact** to the [Three Ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) and [Five Ideals](https://itrevolution.com/five-ideals-of-devops/) of DevOps codified by Gene Kim and popularized in his seminal works, *The Phoenix Project* and *The Unicorn Project*.
+* Recognize noteworthy **Mission Impact** moments or events
+* Generate topical and funny memes based on happenings around the blessing to propel **Mission Impact** to the forefront of every Unicorn's mind
+
+*Podcast*
+
+In lieu of a scheduled happy hour or waffle sesh, we will record a 10-20 minute video every month highlighting remarkable **Mission Impact** moments and champions, reflect on why **Mission Impact** is a core Defense Unicorns value, and inspire the audience with a though-provoking monologue only Jesse Arlington is capable of delivering.
+
+The recording will posted to the [general](https://defense-unicorns.slack.com/archives/C01GAJ9LCAW) channel and a to-be-created **Mission Impact** channel (for posterity) for asynchronous viewing by unicorns in the blessing.
 
 ### Fun
 
-*Advocates: [Madeline Fortner Blanchard](https://github.com/Madeline-UX)*
+*Champions: [Madeline Fortner Blanchard](https://github.com/Madeline-UX)*
 
 People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
 
 ### Open Source Solutions
 
-*Advocates: [Brandt Keller](https://github.com/brandtkeller)*
+*Champions: [Brandt Keller](https://github.com/brandtkeller)*
 
 Open Source software has consumed the world. That is because by making software not only open source, but free to consume, it leads to widespread adoption of solutions that leads to massive mission impact. At Defense Unicorn's we value open source solutions that fundamentally support a free and secure world. 
 
@@ -53,13 +86,13 @@ Open Source software has consumed the world. That is because by making software 
 
 ### Experimentation
 
-*Advocates: [Andrew Blanchard](https://github.com/blancharda) & [Austin Abro](https://github.com/AustinAbro321)*
+*Champions: [Andrew Blanchard](https://github.com/blancharda) & [Austin Abro](https://github.com/AustinAbro321)*
 
 Proposed Habit: clearly identify the experiments you are running, how you are going to run them, for how long you are going to run them, and what the success or failure outcomes are.
 
 ### Ownership
 
-*Advocates: [Austen Bryan](https://github.com/austenbryan) & [Brian Rexrode](https://github.com/brianrexrode)*
+*Champions: [Austen Bryan](https://github.com/austenbryan) & [Brian Rexrode](https://github.com/brianrexrode)*
 
 When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
 
@@ -96,19 +129,19 @@ How might we encourage learning as a habit?
 
 ### Positive Thinking
 
-*Advocates: [Maggie Lyon](https://github.com/MaggieFrances) & [Eden Gebrezgi](https://github.com/edengebrezgi)*
+*Champions: [Maggie Lyon](https://github.com/MaggieFrances) & [Eden Gebrezgi](https://github.com/edengebrezgi)*
 
 When you feel yourself being hurt, insulted, annoyed, or pissed off follow *[Cognitive Restructuring](https://www.mindtools.com/pages/article/newTCS_81.htm)* to shift your perspective:
 
 ### Insights
 
-*Advocates: [Andrew Greene](https://github.com/andrewsgreene) & [Anthony Wendt](https://github.com/anthonywendt)*
+*Champions: [Andrew Greene](https://github.com/andrewsgreene) & [Anthony Wendt](https://github.com/anthonywendt)*
 
 When you strongly believe someone is “making a mistake” let them know. Start the sentence with:
 > I know our company values insights. In the spirit of making both yourself and the company better, one data point for your consideration is that I think that ______________________.
 
 ### Context 
 
-*Advocates: [Andy Roth](https://github.com/blancharda) & [Gavin Scallon](https://github.com/gscallon)* 
+*Champions: [Andy Roth](https://github.com/blancharda) & [Gavin Scallon](https://github.com/gscallon)* 
 
 Context matters. No really. If someone is late to a meeting, and it's because of a family emergency, that is different then they blew it off for no good reason. Context helps others understand your perspective, which leads to developing better empathy and helps forms more effective teams. 
