@@ -75,12 +75,23 @@ The recording will posted to the [general](https://defense-unicorns.slack.com/ar
 
 People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
 
-### Open Source Solutions
+### The Open Source Way
 
-*Champions: [Brandt Keller](https://github.com/brandtkeller)*
+*Champions: [Brandt Keller](https://github.com/brandtkeller) & [Jon Perry](https://github.com/YrrepNoj) & [Gabe Scarberry](https://github.com/ntwkninja) & [Wayne Starr](https://github.com/Racer159)*
 
-Open Source software has consumed the world. That is because by making software not only open source, but free to consume, it leads to widespread adoption of solutions that leads to massive mission impact. At Defense Unicorn's we value open source solutions that fundamentally support a free and secure world. 
+The Open Source way is a mindset for Software, Processes, and Data that we can share between one-another and externally for the intention of furthering the progress of *A free and secure world that enables progress and innovation* (see vision). 
 
+**Meaning**
+
+Progress and Innovation are spaces that any member of Defense Unicorns can strive towards. It is also a space where we can contribute to the betterment of society through knowledge sharing and teaching others. These others may often be other Unicorns who are broadening their horizions to new technologies. It may also be external, and the sharing of processes, information, data and code for the purpose of building a more free and secure tomorrow. 
+
+**Engagement**
+
+| Frequency | Style | Details | Monthly Metrics |
+|---|---|---| 
+| Daily | Emoji | Identify People, Processes or Tehcnologies that contribute to Value through Education or Capability | `before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource:` |
+| Weekly | Slack Post in #general | Educational Post for Open Source and how it spans all members of the company | `before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource: has::books:` |
+| Monthly | Open Source Hero Spotlight | Recognize company heroes practicing The Open Source Way in #general | `in:#general before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource: has::flashlight:` |
 
 ## Incubating Values
 
@@ -120,7 +131,7 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 
 ### Focused Learning
 
-*Adcovates: [Mallory Grim](https://github.com/mgrim2) & [Barrett LaFrance](https://github.com/btlghrants)*
+*Champions: [Mallory Grim](https://github.com/mgrim2) & [Barrett LaFrance](https://github.com/btlghrants)*
 
 How might we encourage learning as a habit?
 - Start a book club
