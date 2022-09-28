@@ -88,7 +88,7 @@ Progress and innovation are spaces that any member of Defense Unicorns should st
 **Engagement**
 
 | Frequency | Style | Details | Monthly Metrics |
-|---|---|---| 
+|---|---|---|---| 
 | Daily | Slack Posts | Identify People, Processes or Technologies that contribute to Value through Education or Capability | `before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource:` |
 | Weekly | Slack Post in #general on Wednesdays | Educational Post for Open Source and how it spans all members of the company | `before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource: has::flashlight:` |
 | Monthly | Open Source Way library roll-up | Create and build a library of the above posts, organized by content-type, to provide historical-asynchronous learning opportunities | `in:#general before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource: has::books:` |
