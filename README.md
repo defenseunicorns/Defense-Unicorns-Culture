@@ -32,7 +32,7 @@ Champion for GitOps for Culture is Defense Unicorn's Culture Executive Officer (
 
 ### Mission Impact
 
-*Champions: [Jesse Arlington](https://github.com/Jesse-Arlington), [Mike Vanhemert](https://github.com/mikevanhemert)*
+*Champions: [Mike Vanhemert](https://github.com/mikevanhemert)*
 
 Defense Unicorns exists to serve the mission. Mission Impact is at the core of everything we do.
 
@@ -71,7 +71,7 @@ The recording will posted to the [general](https://defense-unicorns.slack.com/ar
 
 ### Fun
 
-*Champions: [Madeline Fortner Blanchard](https://github.com/Madeline-UX)*
+*Champions: [Madeline Fortner](https://github.com/Madeline-UX)[Michaela Flatau](https://github.com/michaeladefenseunicorns)*
 
 People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
 
