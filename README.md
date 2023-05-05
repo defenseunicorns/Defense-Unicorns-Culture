@@ -32,7 +32,7 @@ Champion for GitOps for Culture is Defense Unicorn's Culture Executive Officer (
 
 ### Mission Impact
 
-*Champions: [Mike Vanhemert](https://github.com/mikevanhemert)*
+*Champions: [Jon Andrew](https://github.com/docandrew) & Kerrigan Wofford*
 
 Defense Unicorns exists to serve the mission. Mission Impact is at the core of everything we do.
 
@@ -71,13 +71,13 @@ The recording will posted to the [general](https://defense-unicorns.slack.com/ar
 
 ### Fun
 
-*Champions: [Madeline Fortner](https://github.com/Madeline-UX)[Michaela Flatau](https://github.com/michaeladefenseunicorns)*
+*Champions: [Audrey Ettesvold](https://github.com/audreyedu), [Jordan McClintock](https://github.com/corang), & [Mike Kruggel](https://github.com/MKruggel)*
 
 People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
 
 ### The Open Source Way
 
-*Champions: [Brandt Keller](https://github.com/brandtkeller) & [Jon Perry](https://github.com/YrrepNoj) & [Gabe Scarberry](https://github.com/ntwkninja) & [Wayne Starr](https://github.com/Racer159)*
+*Champions: [Gerred Dillon](https://github.com/gerred) & [Barry Waldbaum](https://github.com/bdw617)*
 
 The Open Source way is a mindset for Software, Processes, and Data that we can share between one-another and externally for the intention of furthering the progress of *A free and secure world that enables progress and innovation* (see vision). 
 
@@ -97,13 +97,13 @@ Progress and innovation are spaces that any member of Defense Unicorns should st
 
 ### Experimentation
 
-*Champions: [Andrew Blanchard](https://github.com/blancharda) & [Austin Abro](https://github.com/AustinAbro321)*
+*Champions: [Jason van Brackel](https://github.com/JasonvanBrackel) & [Josi Moore](https://github.com/josiblair)*
 
 Proposed Habit: clearly identify the experiments you are running, how you are going to run them, for how long you are going to run them, and what the success or failure outcomes are.
 
 ### Ownership
 
-*Champions: [Austen Bryan](https://github.com/austenbryan) & [Brian Rexrode](https://github.com/brianrexrode)*
+*Champions: [Sam Kreimer](https://github.com/sdkreimier) & [Cody Gentry](https://github.com/codywyoming177)*
 
 When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
 
@@ -140,19 +140,19 @@ How might we encourage learning as a habit?
 
 ### Positive Thinking
 
-*Champions: [Maggie Lyon](https://github.com/MaggieFrances) & [Eden Gebrezgi](https://github.com/edengebrezgi)*
+*Champions: [Rob Mengert](https://github.com/TheFutonEng) & [Lauren Mengert](https://github.com/laurenmengert)*
 
 When you feel yourself being hurt, insulted, annoyed, or pissed off follow *[Cognitive Restructuring](https://www.mindtools.com/pages/article/newTCS_81.htm)* to shift your perspective:
 
 ### Insights
 
-*Champions: [Andrew Greene](https://github.com/andrewsgreene) & [Anthony Wendt](https://github.com/anthonywendt)*
+*Champions: [La'Tise Tangherlini](https://github.com/latise) & [Kelli Fogle](https://github.com/unicornkelli)*
 
 When you strongly believe someone is “making a mistake” let them know. Start the sentence with:
 > I know our company values insights. In the spirit of making both yourself and the company better, one data point for your consideration is that I think that ______________________.
 
 ### Context 
 
-*Champions: [Andy Roth](https://github.com/blancharda) & [Gavin Scallon](https://github.com/gscallon)* 
+*Champions: [Jessica Hardin](https://github.com/HardinHub) & [Melissa Caviglia](https://github.com/melissacaviglia)* 
 
 Context matters. No really. If someone is late to a meeting, and it's because of a family emergency, that is different then they blew it off for no good reason. Context helps others understand your perspective, which leads to developing better empathy and helps forms more effective teams. 
