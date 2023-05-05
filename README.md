@@ -131,7 +131,7 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 
 ### Focused Learning
 
-*Champions: [Mallory Grim](https://github.com/mgrim2) & [Barrett LaFrance](https://github.com/btlghrants)*
+*Champions: [Sam Brooks](https://github.com/samlbrooks) & [Gabe Scarberry](https://github.com/ntwkninja)*
 
 How might we encourage learning as a habit?
 - Start a book club
