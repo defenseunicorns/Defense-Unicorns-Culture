@@ -1,7 +1,7 @@
-# Defense Unicorn's Culture
-This repo is a living document of Defense Unicorn's culture. 
+# Defense Unicorns' Culture
+This repo is a living document of Defense Unicorns' culture. 
 
-Everyone at the company is encouraged to take ownership of our culture and values. You can propose changes to this document by clicking the edit button in the top righthand corner and opening a PR against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Everyone at the company is encouraged to take ownership of our culture, values, and principles. You can propose changes to this document by clicking the edit button in the top righthand corner and opening a Pull Request (PR) against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## About Defense Unicorns
 Defense Unicorns exists to develop elegant and simple to use products, that enable mission heroes to stream software delivery so they can focus on the most important challenges.
@@ -20,90 +20,54 @@ A FREE AND SECURE WORLD that enables progress and innovation.
 
 ## Our Mission
 
-Streamlining software delivery so you can focus on the most important challenges.
+Streamlining software delivery so **you** can focus on the most important challenges.
 
-# Our Values
+# Our Three Uniques
+Our three uniques are the things that differentiate Defense Unicorns from other organizations. Our focus on these three things are truly what sets our company apart and help create a key part of the company's identity.
 
-Values are only as good as your daily habits. Values not lived, are not values at all. We allow any Unicorn to propose new values. We then adopt the values that we not only believe in, but that are reflected in daily habits.  When new values are proposed, they start off as Sandbox Values.  After 70% of the company adopts daily habits around a sandbox value, it is then promoted as an Incubating Values. Following 80% contribution over 6 months, a company value can be promoted to Graduated Values.  At any point, a Graduated or Incubating Values can be demoted or removed. 
+- **Focus on Open Source Product**
+- **Authenticity**
+- **Talent**
 
-Champion for GitOps for Culture is Defense Unicorn's Culture Executive Officer (CEO) *[Rob Slaughter](https://github.com/unicornbunny182)*
+# Our Core Values
+Our core values allow us to summarize and define who we are. We are: 
 
-## Sandbox
+- **Focused**
+- **Mission-Driven**
+- **Humble**
+- **Caring**
+- **Adaptable**
 
-### Mission Impact
+Stating who we are enables us to attracted other like-minded unicorns in from the wild to join our company and we're excited to see what they will add to our culture. 
 
-*Champions: [Jon Andrew](https://github.com/docandrew) & Kerrigan Wofford*
+# Our Principles
+A principle is “a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning." Our Principles describe how we do things. We will continue to encourage living these principles on a daily basis and encouraging the development of individual habits that are authentic to each 🦄. Our guiding principles will help to encourage desirable incremental improvements every day and the world truly advances as a result of organizations that actualize small incremental improvements over long periods of time. 
 
-Defense Unicorns exists to serve the mission. Mission Impact is at the core of everything we do.
+Principles not lived, are not principles at all. We allow any Unicorn to propose new principles. We then adopt principles that we not only believe in, but that are reflected in daily life and habits.  When new principles are proposed, they start off as Sandbox Values.  After 30% of the company adopts daily habits around a sandbox principle, it is then promoted as an Incubating Values. Following 75% contribution over 6 months, a company value can be promoted to Graduated.  At any point, a Graduated or Incubating Values can be demoted or removed. 
 
-**Meaning**
-
-Mission Impact is bigger than Defense Unicorns. It is every activity that contributes to increased decision timelines and improved battlespace awareness through faster software delivery that is cheaper to sustain. Mission Impact factors into every decision we make: Who do we partner with? Where should I focus my attention today? What one area can I improve to amplify my contributions? Our Mission Heroes - not the government PM or contracting officer, not the Chief Engineer at the Program Office, but the Sailor, Soldier, Airman, Marine, and Guardian whose mission success is tied directly to the systems we advance - are our North Star.
-
-**Engagement**
-
-| Frequency | Style | Details |
-|---|---|---| 
-| Daily | Emoji | Identify Unicorns and activities delivering Mission Impact for our Heroes
-| Weekly | Meme/Blog | 2-8 sentence post/meme advancing the Mission Impact value |
-| Monthly | Podcast | Recorded discussion summarizing this month |
-
-*Emoji*
-
-The value champions will select an emoji that embodies **Mission Impact** and begin socializing its purpose across Defense Unicorns. The emoji allows us to recognize individuals and activities that directly and indirectly deliver **Mission Impact** for heroes.
-
-We will engage the Slack API to automatically assess emoji use and periodically collate value engagement data.
-
-*Meme/Blog*
-
-The value champions will generate 2-4 months of ideas for memes and blog posts and post them to the [general](https://defense-unicorns.slack.com/archives/C01GAJ9LCAW) channel in Slack. Initial brainstorming ideas include:
-
-* Develop a story arc that allows us to educate the blessing on ways to be mindful of Mission Impact in everything we do
-* Relate **Mission Impact** to the [Three Ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) and [Five Ideals](https://itrevolution.com/five-ideals-of-devops/) of DevOps codified by Gene Kim and popularized in his seminal works, *The Phoenix Project* and *The Unicorn Project*.
-* Recognize noteworthy **Mission Impact** moments or events
-* Generate topical and funny memes based on happenings around the blessing to propel **Mission Impact** to the forefront of every Unicorn's mind
-
-*Podcast*
-
-In lieu of a scheduled happy hour or waffle sesh, we will record a 10-20 minute video every month highlighting remarkable **Mission Impact** moments and champions, reflect on why **Mission Impact** is a core Defense Unicorns value, and inspire the audience with a though-provoking monologue only Jesse Arlington is capable of delivering.
-
-The recording will posted to the [general](https://defense-unicorns.slack.com/archives/C01GAJ9LCAW) channel and a to-be-created **Mission Impact** channel (for posterity) for asynchronous viewing by unicorns in the blessing.
-
-### Fun
-
-*Champions: [Audrey Ettesvold](https://github.com/audreyedu), [Jordan McClintock](https://github.com/corang), & [Mike Kruggel](https://github.com/MKruggel)*
-
-People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
-
-### The Open Source Way
-
-*Champions: [Gerred Dillon](https://github.com/gerred) & [Barry Waldbaum](https://github.com/bdw617)*
-
-The Open Source way is a mindset for Software, Processes, and Data that we can share between one-another and externally for the intention of furthering the progress of *A free and secure world that enables progress and innovation* (see vision). 
-
-**Meaning**
-
-Progress and innovation are spaces that any member of Defense Unicorns should strive to expand, contributing to the betterment of society through sharing of knowledge and teaching of others. These others may be fellow Unicorns who are broadening their horizons to new technologies or workflows, but it may also be external with the free sharing of processes, information, data and code building a more free and secure tomorrow for everyone. We share processes in a way that enable people to provide contributions directly and asynchronously - rather than through specified focal or obfuscated synchronous engagements. It also means that we advocate and encourage any member of the company to review and participate in currently established products/processes and enable them to contribute through any iteration that makes the product/process better than it was originally. 
-
-**Engagement**
-
-| Frequency | Style | Details | Monthly Metrics |
-|---|---|---|---| 
-| Daily | Slack Posts | Identify People, Processes or Technologies that contribute to Value through Education or Capability | `before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource:` |
-| Weekly | Slack Post in #general on Wednesdays | Educational Post for Open Source and how it spans all members of the company | `before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource: has::flashlight:` |
-| Monthly | Open Source Way library roll-up | Create and build a library of the above posts, organized by content-type, to provide historical-asynchronous learning opportunities | `in:#general before:<insert tomorrow date> after:<insert date 30/31 days prior> has::opensource: has::books:` |
-
-## Incubating Values
+*Advocate for GitOps for Culture is Defense Unicorn's Culture Executive Officer (CEO) [Rob Slaughter](https://github.com/unicornbunny182)*
 
 ### Experimentation
 
-*Champions: [Jason van Brackel](https://github.com/JasonvanBrackel) & [Josi Moore](https://github.com/josiblair)*
+*Advocate: [Josi Moore](https://github.com/josiblair) & [La'Tise Tangherlini](https://github.com/latise)*
+
+Experimentation is critical to everything we do - it is a lifeblood of the company - from the things engineers are working on to develop products to the cultivation of shared company values - everything we do is a grand experiment. 
+
+We often have to evaluate between choices to test and determine the best solution. Experimentation is a process for choosing the “best” options — even though it is hard to know it is the “best.” 
+
+**What makes a good experiment?**
+Well-designed experiments include:
+- Problem Statement
+- Hypothesis
+- Test
+- Success Criteria
+Good experiemetns are characterized by their speed, a safe environment to fail, and the promotion of learning. 
 
 Proposed Habit: clearly identify the experiments you are running, how you are going to run them, for how long you are going to run them, and what the success or failure outcomes are.
 
 ### Ownership
 
-*Champions: [Sam Kreimer](https://github.com/sdkreimier) & [Cody Gentry](https://github.com/codywyoming177)*
+*Advocate: [Sam Kreimer](https://github.com/sdkreimier) & [Cody Gentry](https://github.com/codywyoming177)*
 
 When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
 
@@ -117,7 +81,7 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 - ensures customers have a great experience and get the outcomes they were looking for
 - Not only the identification of problems but taking point on solutioning.
 
-**What is the expected behavior we are looking to drive with development of ownership habits? Said differently, what is the expected outcome?**
+**What is the expected behavior we are looking to drive with development of ownership principles? Said differently, what is the expected outcome?**
 - Unicorns build daily habits that display ownership in their work in order to better deliver value to our customers
 
 **How can a new hire demonstrate habits related to ownership?**
@@ -129,30 +93,63 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 - Default to action - follow up and accountability
 - Evolved to ownership to bookend beginning the work
 
-### Focused Learning
+### Velocity
 
-*Champions: [Sam Brooks](https://github.com/samlbrooks) & [Gabe Scarberry](https://github.com/ntwkninja)*
+*Advocate: [Gabe Scarberry](https://github.com/ntwkninja) & [Phillip Record](https://github.com/phillip-record)*
 
-How might we encourage learning as a habit?
-- Start a book club
-- Recommend an article of the day
-- Host tech lunches/brown bags
+**What does Velocity mean in Defense Unicorns?** 
+We define Velocity as the efficiency at which mission-value is delivered (speed and direction). It is characterized by how we learn, adapt, and the urgency at which we move towards mission value. We optimize for speed and quality because our mission heroes deserve it.
 
-### Positive Thinking
+**Why is Velocity important to Defense Unicorns?**
+The world is constantly evolving, and software is at the forefront of that change. Velocity matters because we need each other to deliver mission value faster and better than our adversaries in order to provide the mission outcomes that our heroes depend on. 
 
-*Champions: [Rob Mengert](https://github.com/TheFutonEng) & [Lauren Mengert](https://github.com/laurenmengert)*
+Velocity matters because we need all the thrust and vector we can acquire to generate inertia needed for the journey ahead.
 
-When you feel yourself being hurt, insulted, annoyed, or pissed off follow *[Cognitive Restructuring](https://www.mindtools.com/pages/article/newTCS_81.htm)* to shift your perspective:
+**How do we embody Velocity?**
 
-### Insights
+1. Learn by Doing - Actions influence thought inasmuch as thought influences actions.
+  
+2. Move with a Collective Purpose - Speed Matters and we are better together.
+   - Default to Urgency: Rapidly pursue mission value & guard against complacency.
+   - Collaborate Cross-Functionally: We foster a collaborative environment where Unicorns from different segments can share their knowledge and expertise. We intentionally create space for continuous learning, enabling our Unicorns to gain insights from diverse perspectives and applying them to the mission at hand.
 
-*Champions: [La'Tise Tangherlini](https://github.com/latise) & [Kelli Fogle](https://github.com/unicornkelli)*
+3. Direction Matters - We can be very busy and accomplish very little.
+   - Default to Mission Value and Quality
+   - Cultivate a Feedback Culture: Feedback is encouraged and celebrated. Open communication channels, (internal & external) are actively promoted. Questions, ideas and suggestions are welcome and incentivized.
+   - People over Process: Individuals and Interactions over processes and tools. Trust is the fuel for velocity and powers the engine while charting the course together.
 
-When you strongly believe someone is “making a mistake” let them know. Start the sentence with:
-> I know our company values insights. In the spirit of making both yourself and the company better, one data point for your consideration is that I think that ______________________.
+### Clarity is Kindness
 
-### Context 
+*Advocate:  [Kelli Fogle](https://github.com/unicornkelli), [Jessica Hardin](https://github.com/HardinHub) & [Melissa Caviglia](https://github.com/melissacaviglia)*
 
-*Champions: [Jessica Hardin](https://github.com/HardinHub) & [Melissa Caviglia](https://github.com/melissacaviglia)* 
+We can't shy away from the tough conversations -- whether sharing important context or insights -- we owe each clarity to one another. 
 
-Context matters. No really. If someone is late to a meeting, and it's because of a family emergency, that is different then they blew it off for no good reason. Context helps others understand your perspective, which leads to developing better empathy and helps forms more effective teams. 
+> “Over-communicating is the glue that holds a high-performing team together and keeps them focused in the same direction. And, it circles back to clarity. Without good, consistent communication, you don’t have clarity.”
+>
+> *~ Lee Ellis, leadership consultant, author, presenter, retired colonel USAF*
+
+> ["Clear is Kind. Unclear is Unkind"](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/)
+>
+> *~ Brené Brown
+
+**How has this value evolved over time within Defense Unicorns?**
+
+Defense Unicorns has always encouraged the sharing and receiving of insights and context as desired behaviors. This evolution helps connect the importance of both context and insights to the kindness they provide to others. 
+
+### Fun
+
+*Advocate: [Audrey Ettesvold](https://github.com/audreyedu), [Jordan McClintock](https://github.com/corang), & [Mike Kruggel](https://github.com/MKruggel)*
+
+People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
+
+**What does Fun mean at Defense Unicorns?**
+- **Life as a Unicorn is about more than just work, it’s also about having a good time.** Defense Unicorns has an amusing name and an adorable logo, but our Unicorns are working to solve hard problems that have huge impact for our Mission Heroes, and the world! By encouraging Unicorns to have fun, both at work and outside of work, we’re combatting burnout and making our work more enjoyable. 
+- **We want Unicorns to look forward to coming to work** and part of what makes Defense Unicorns so wonderful is our playful and silly culture where everyone can play a role in making sure that we take time to laugh and do things we enjoy. Not everything we do is inherently fun, but there are so many ways to incorporate fun into our daily lives and give our brains a much-needed break from focusing on the hard problems we’re trying to solve.   
+
+**Why is this important to Defense Unicorns?**
+- **Having fun together builds trust, communication, and vulnerability for our team.** If we’re able to have fun and laugh together, we’ll be able to more effectively address problems and make tough conversations easier. Having fun is an important way to establish rapport, build trust, and demonstrate approachability which becomes critical especially in a growth all-remote company.  
+
+**How do we embody Fun?**
+* We realize that fun looks different for everyone and this habit in practice will look different for everyone, too! 
+* You’ll hear Unicorns say this often: choose happiness. 
+* As Unicorns, we all sparkle differently and we all have fun differently - find what fun means for you and go for it! But also, recognize that what you find fun might also be fun for someone else - we encourage Unicorns to be unapologetically themselves and share that with the Blessing every day. 
