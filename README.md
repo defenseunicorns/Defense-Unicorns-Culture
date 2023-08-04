@@ -1,7 +1,7 @@
 # Defense Unicorns' Culture
 This repo is a living document of Defense Unicorns' culture. 
 
-Everyone at the company is encouraged to take ownership of our culture, values, and principles. You can propose changes to this document by clicking the edit button in the top righthand corner and opening a Pull Request (PR) against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Everyone at the company is encouraged to take ownership of our culture, values and principles. You can propose changes to this document by clicking the edit button in the top righthand corner and opening a Pull Request (PR) against it. Here is a helpful guide to [formatting with Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## About Defense Unicorns
 Defense Unicorns exists to develop elegant and simple to use products, that enable mission heroes to streamline software delivery so they can focus on the most important challenges.
