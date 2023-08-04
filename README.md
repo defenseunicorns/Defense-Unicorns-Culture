@@ -106,7 +106,6 @@ We define Velocity as the efficiency at which mission-value is delivered. We ach
 **Why is Velocity important to Defense Unicorns?**
 The world is constantly evolving, and software is at the forefront of that change. Velocity matters because we need each other to deliver mission value faster and better than our adversaries in order to provide the mission outcomes that our heroes depend on. 
 
-Velocity matters because we need all the thrust and vector we can acquire to generate inertia needed for the journey ahead.
 
 **How do we embody Velocity?**
 
