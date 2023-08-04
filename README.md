@@ -22,7 +22,7 @@ A FREE AND SECURE WORLD that enables progress and innovation.
 
 Streamlining software delivery so **you** can focus on the most important challenges.
 
-# Our Three Uniques
+## Our Three Uniques
 Our three uniques are the things that differentiate Defense Unicorns from other organizations. Our focus on these three things are truly what sets our company apart and help create a key part of the company's identity.
 
 - **Focus on Open Source Product**
