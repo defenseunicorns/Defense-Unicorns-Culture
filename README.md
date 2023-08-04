@@ -100,7 +100,8 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 *Advocate: [Gabe Scarberry](https://github.com/ntwkninja) & [Phillip Record](https://github.com/phillip-record)*
 
 **What does Velocity mean in Defense Unicorns?** 
-We define Velocity as the efficiency at which mission-value is delivered (speed and direction). It is characterized by how we learn, adapt, and the urgency at which we move towards mission value. We optimize for speed and quality because our mission heroes deserve it.
+
+We define Velocity as the efficiency at which mission-value is delivered. We achieve this by focusing on speed (simplicity + time to value) and direction (quality + value delivered). It is characterized by how we learn, adapt and the urgency at which we move towards mission value.
 
 **Why is Velocity important to Defense Unicorns?**
 The world is constantly evolving, and software is at the forefront of that change. Velocity matters because we need each other to deliver mission value faster and better than our adversaries in order to provide the mission outcomes that our heroes depend on. 
