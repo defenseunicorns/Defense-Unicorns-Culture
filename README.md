@@ -43,7 +43,9 @@ Stating who we are enables us to attract other like-minded unicorns in from the 
 ## Our Principles
 A principle is “a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning." Our Principles describe how we do things. We value the active application of our principles, acknowledging that they are truly principles only when put into action. Principles not lived, are not principles at all.
 
-Principles not lived, are not principles at all. We allow any Unicorn to propose new principles. We then adopt principles that we not only believe in, but that are reflected in daily life and habits.  When new principles are proposed, they start off as Sandbox Values.  After 30% of the company adopts daily habits around a sandbox principle, it is then promoted as an Incubating Values. Following 75% contribution over 6 months, a company value can be promoted to Graduated.  At any point, a Graduated or Incubating Values can be demoted or removed. 
+We strive to embody our guiding principles daily, fostering authentic habits unique to each team member at Defense Unicorns. Emphasizing the significance of incremental improvements, we believe that real progress comes from sustained efforts over time.
+
+That being said, we welcome input from any Unicorn to propose new principles, adopting those that align with our beliefs and are reflected in our daily practices. These proposed principles start as Sandbox Values, progress to Incubating Values with widespread adoption, and eventually become Graduated Values after significant contribution over time.
 
 *Advocate for GitOps for Culture is Defense Unicorn's Culture Executive Officer (CEO) [Rob Slaughter](https://github.com/unicornbunny182)*
 
