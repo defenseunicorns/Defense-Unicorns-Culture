@@ -41,7 +41,7 @@ Our core values allow us to summarize and define who we are. We are:
 Stating who we are enables us to attract other like-minded unicorns in from the wild to join our company. We're excited to see how they will uniquely enrich our culture!
 
 ## Our Principles
-A principle is “a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning." Our Principles describe how we do things. We will continue to encourage living these principles on a daily basis and encouraging the development of individual habits that are authentic to each 🦄. Our guiding principles will help to encourage desirable incremental improvements every day and the world truly advances as a result of organizations that actualize small incremental improvements over long periods of time. 
+A principle is “a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning." Our Principles describe how we do things. We value the active application of our principles, acknowledging that they are truly principles only when put into action. Principles not lived, are not principles at all.
 
 Principles not lived, are not principles at all. We allow any Unicorn to propose new principles. We then adopt principles that we not only believe in, but that are reflected in daily life and habits.  When new principles are proposed, they start off as Sandbox Values.  After 30% of the company adopts daily habits around a sandbox principle, it is then promoted as an Incubating Values. Following 75% contribution over 6 months, a company value can be promoted to Graduated.  At any point, a Graduated or Incubating Values can be demoted or removed. 
 
