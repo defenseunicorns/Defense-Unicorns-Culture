@@ -38,7 +38,7 @@ Our core values allow us to summarize and define who we are. We are:
 - **Caring**
 - **Adaptable**
 
-Stating who we are enables us to attracted other like-minded unicorns in from the wild to join our company and we're excited to see what they will add to our culture. 
+Stating who we are enables us to attract other like-minded unicorns in from the wild to join our company. We're excited to see how they will uniquely enrich our culture!
 
 ## Our Principles
 A principle is “a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning." Our Principles describe how we do things. We will continue to encourage living these principles on a daily basis and encouraging the development of individual habits that are authentic to each 🦄. Our guiding principles will help to encourage desirable incremental improvements every day and the world truly advances as a result of organizations that actualize small incremental improvements over long periods of time. 
