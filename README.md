@@ -29,7 +29,7 @@ Our three uniques are the things that differentiate Defense Unicorns from other 
 - **Authenticity**
 - **Talent**
 
-# Our Core Values
+## Our Core Values
 Our core values allow us to summarize and define who we are. We are: 
 
 - **Focused**
