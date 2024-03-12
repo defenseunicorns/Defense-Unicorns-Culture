@@ -51,7 +51,7 @@ That being said, we welcome input from any Unicorn to propose new principles, ad
 
 ### Experimentation
 
-*Advocate: [Josi Moore](https://github.com/josiblair) & [La'Tise Tangherlini](https://github.com/latise)*
+*Advocates: Rebecca Lively and Daniel Donaldson* 
 
 Experimentation is critical to everything we do - it is a lifeblood of the company - from the things engineers are working on to develop products to the cultivation of shared company values - everything we do is a grand experiment. 
 
@@ -69,7 +69,7 @@ Proposed Habit: clearly identify the experiments you are running, how you are go
 
 ### Ownership
 
-*Advocate: [Sam Kreimer](https://github.com/sdkreimier) & [Cody Gentry](https://github.com/codywyoming177)*
+*Advocates: Greg Horvath, Julia Monford, and Sam Peckham*
 
 When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
 
@@ -97,7 +97,7 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 
 ### Velocity
 
-*Advocate: [Gabe Scarberry](https://github.com/ntwkninja) & [Phillip Record](https://github.com/phillip-record)*
+*Advocate: Devin Allen, Giles Walger, and Wayne Starr*
 
 **What does Velocity mean in Defense Unicorns?** 
 
@@ -122,7 +122,7 @@ The world is constantly evolving, and software is at the forefront of that chang
 
 ### Clarity is Kindness
 
-*Advocate:  [Kelli Fogle](https://github.com/unicornkelli), [Jessica Hardin](https://github.com/HardinHub) & [Melissa Caviglia](https://github.com/melissacaviglia)*
+*Advocate:  Eric Wyles, Phil Cole, and Steven Ollek*
 
 We can't shy away from the tough conversations -- whether sharing important context or insights -- we owe each clarity to one another. 
 
@@ -140,7 +140,7 @@ Defense Unicorns has always encouraged the sharing and receiving of insights and
 
 ### Fun
 
-*Advocate: [Audrey Ettesvold](https://github.com/audreyedu), [Jordan McClintock](https://github.com/corang), & [Mike Kruggel](https://github.com/MKruggel)*
+*Advocate: Jessica Hardin, Jimmy Ungerman, and Tom Clapper*
 
 People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
 
