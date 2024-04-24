@@ -63,7 +63,7 @@ Well-designed experiments include:
 - Hypothesis
 - Test
 - Success Criteria
-Good experiemetns are characterized by their speed, a safe environment to fail, and the promotion of learning. 
+Good experiments are characterized by their speed, a safe environment to fail, and the promotion of learning. 
 
 Proposed Habit: clearly identify the experiments you are running, how you are going to run them, for how long you are going to run them, and what the success or failure outcomes are.
 
