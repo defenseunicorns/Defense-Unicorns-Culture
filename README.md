@@ -16,11 +16,11 @@ Defense Unicorns exists to develop elegant and simple to use products, that enab
 
 ## Our Vision
 
-A FREE AND SECURE WORLD that enables progress and innovation.
+Advance freedom and independence globally.
 
 ## Our Mission
 
-Streamlining software delivery so **you** can focus on the most important challenges.
+Transform how the U.S. defense apparatus buys, builds, delivers, and sustains mission capabilities.
 
 ## Our Three Uniques
 Our three uniques are what sets Defense Unicorns apart and form key parts of our identity.
