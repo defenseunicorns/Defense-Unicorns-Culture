@@ -51,7 +51,7 @@ That being said, we welcome input from any Unicorn to propose new principles, ad
 
 ### Experimentation
 
-*Advocates: Rebecca Lively and Daniel Donaldson* 
+*Advocates: Richard Kaufman and Nick Kammerdiener* 
 
 Experimentation is critical to everything we do - it is a lifeblood of the company - from the things engineers are working on to develop products to the cultivation of shared company values - everything we do is a grand experiment. 
 
@@ -69,7 +69,7 @@ Proposed Habit: clearly identify the experiments you are running, how you are go
 
 ### Ownership
 
-*Advocates: Greg Horvath, Julia Monford, and Sam Peckham*
+*Advocates: Connor Bowen and Mike Bynum*
 
 When new problems arise, don't admire them, own them. Ensure others aren't working the same issues (or working against it), but do default to taking action for the problems that you can own. See solutions to completion, or until there can be a successful (slow) transition of ownership to another unicorn.
 
@@ -97,7 +97,7 @@ When new problems arise, don't admire them, own them. Ensure others aren't worki
 
 ### Velocity
 
-*Advocate: Devin Allen, Giles Walger, and Wayne Starr*
+*Advocate: Baron Stone and Jon Schulman*
 
 **What does Velocity mean in Defense Unicorns?** 
 
@@ -122,7 +122,7 @@ The world is constantly evolving, and software is at the forefront of that chang
 
 ### Clarity is Kindness
 
-*Advocate:  Eric Wyles, Phil Cole, and Steven Ollek*
+*Advocate:  Courtney Partain and Joe Richardson*
 
 We can't shy away from the tough conversations -- whether sharing important context or insights -- we owe each clarity to one another. 
 
@@ -140,7 +140,7 @@ Defense Unicorns has always encouraged the sharing and receiving of insights and
 
 ### Fun
 
-*Advocate: Jessica Hardin, Jimmy Ungerman, and Tom Clapper*
+*Advocate: Anita Zintel, Gabriella Garcia, and Julia Vargas-Shankland*
 
 People are at their best when they are having a good time.  By making fun a core part of our values, we allow ourselves to have a good time, at the same time that we are helping to change the world. 
 
