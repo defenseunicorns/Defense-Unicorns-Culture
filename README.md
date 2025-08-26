@@ -43,6 +43,6 @@ In June 2025, we **reevaluated our core values to align with where we’re heade
 - **We Take Extreme Ownership**: We own results with action; no excuses. We lead with urgency and finish with integrity. We don’t admire problems, we solve them. We lead by serving; mission over ego, team over self.
 - **We Innovate to Impact**: We deliver solutions to mission-critical needs; not hypotheticals. We cultivate curiosity that fuels action, and action that fuels curiosity. We explore to advance: ship fast, learn faster, and improve where it matters. We believe in mission-readiness, not vanity tech.
 
-Core Values help to define who we are.  Understanding how the company defines and describes these core values is essential to realizing who fits in the organization and who doesn’t. Having the “right people” in the “right seats” will help elevate the success of the company. Check out Jim Collins’ book “From Good to Great” for more words on buses and the seats on them.
+Core Values help to define who we are.  Understanding how the company defines and describes these core values is essential to realizing who fits in the organization and who doesn’t. Having the “right people” in the “right seats” will help elevate the success of the company. Check out Jim Collins’ book [From Good to Great](https://www.jimcollins.com/books.html) for more words on buses and the seats on them.
 
 Stating who we are enables us to attract other like-minded unicorns in from the wild to join our company. We're excited to see how they will uniquely enrich our culture!
