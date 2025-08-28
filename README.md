@@ -21,13 +21,6 @@ Advance freedom and independence globally.
 ## Our Mission
 Making Software a Strategic Deterrent.
 
-## Our Three Uniques
-Our three uniques are what sets Defense Unicorns apart and form key parts of our identity.
-
-- **Focus on Open Source Product**
-- **Authenticity**
-- **Talent**
-
 ## Our Core Values
 Our core values allow us to summarize and define who we are: 
 
